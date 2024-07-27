@@ -1,0 +1,10 @@
+1,Maltesers,1200,10
+2,Kitkat,700,15
+3,Cupcakes,1200,21
+4,Waffles,1200,37
+5,Tiramisu,3000,10
+6,Sundae,3400,5
+7,Pancakes,1350,7
+8,Donuts,400,50
+9,Milk Malt Cake,100,98
+10,Snickers,1300,6
